@@ -1,3 +1,4 @@
 - Bacon
 - Eggs
+- Rice
 - Xbox
